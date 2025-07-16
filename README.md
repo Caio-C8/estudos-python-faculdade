@@ -18,6 +18,6 @@ pip install -r trabalhoCurriculo/requiriments.txt
 
 2. Rode o arquivo main.py do jeito que preferir.
 
-### Pré-requerimentos
+### Pré-requisitos
 
 - [Python](https://www.python.org/downloads/) instalado.
