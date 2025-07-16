@@ -5,3 +5,19 @@ O repositório está dividido em duas branches:
 
 - **main**: trabalho feito com tudo que foi aprendido sobre a linguagem Python e lógica de programação durante o 2º período.
 - **exercicios/atividades**: exercícios e atividade feitas para praticar lógica de programação e conceitos da linguagem Python.
+
+## Trabalho
+
+### Instruções de Execução
+
+1. Execute no terminal e baixe as libs necessárias:
+
+```bash
+pip install -r trabalhoCurriculo/requiriments.txt
+```
+
+2. Rode o arquivo main.py do jeito que preferir.
+
+### Pré-requerimentos
+
+- [Python](https://www.python.org/downloads/) instalado.
